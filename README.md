@@ -1,3 +1,3 @@
 # PaintApp
 
-GitHUb連携のためのテストです。
+Android StudioとGitHUb連携のためのテストです。
